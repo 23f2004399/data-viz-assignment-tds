@@ -1,0 +1,8 @@
+{
+  "prompt": "A massive, crushing block of brutalist, weathered iron with deep rust textures hangs agonizingly close to a pristine, polished floor of fragile porcelain. The impossibly heavy block is suspended only by hundreds of microscopic, fraying silk threads that are visibly snapping under the immense tension. Dramatic, low-key lighting with a single harsh spotlight, creating profound shadows. A tangible sense of unbearable weight and imminent, catastrophic failure. No text, no charts, no numbers. High-resolution photo.",
+  "model": "Gemini 3 Flash Image",
+  "dataset_name": "SIPRI Military Expenditure Database (via Our World in Data)",
+  "dataset_url": "https://ourworldindata.org/grapher/military-spending-sipri",
+  "insight": "In 2024, United States military spending alone reached $968 billion, a massive, crushing financial weight suspended precariously over the fragile foundations of global peace.",
+  "publish_email": true
+}
